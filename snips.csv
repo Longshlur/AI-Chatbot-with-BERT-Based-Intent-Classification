@@ -1,0 +1,1201 @@
+text,intent
+what is the weather now,GetWeather
+wake me up please,SetAlarm
+weather today for me,GetWeather
+find a movie,SearchCreativeWork
+weather forecast please,GetWeather
+start playlist please,PlayMusic
+search books today,SearchCreativeWork
+add milk to list please,AddToList
+look for songs now,SearchCreativeWork
+find restaurant booking now,BookRestaurant
+weather today today,GetWeather
+temperature today now,GetWeather
+add milk to list today,AddToList
+weather in my city,GetWeather
+add item to my list for me,AddToList
+world news please,GetNews
+what is the weather please,GetWeather
+add milk to list please,AddToList
+weather in my city now,GetWeather
+when is next show now,SearchScreeningEvent
+table for two please now,BookRestaurant
+wake me at 6 now,SetAlarm
+is it raining for me,GetWeather
+wake me up today,SetAlarm
+look for songs for me,SearchCreativeWork
+wake me at 6 now,SetAlarm
+play hindi songs,PlayMusic
+news update now,GetNews
+weather forecast for me,GetWeather
+show news today,GetNews
+show movies about robots today,SearchCreativeWork
+i want to eat out please,BookRestaurant
+wake me at 6 for me,SetAlarm
+add item to my list for me,AddToList
+search creative content today,SearchCreativeWork
+show news please,GetNews
+movie timings,SearchScreeningEvent
+is it raining please,GetWeather
+search creative content,SearchCreativeWork
+find artwork for me,SearchCreativeWork
+film screening time now,SearchScreeningEvent
+play a song for me,PlayMusic
+add item to my list now,AddToList
+how is weather today,GetWeather
+book a place for dinner,BookRestaurant
+add bread to list please,AddToList
+how is weather for me,GetWeather
+wake me up now,SetAlarm
+book a table for me,BookRestaurant
+news update,GetNews
+temperature today now,GetWeather
+set alarm please,SetAlarm
+weather today today,GetWeather
+is it raining please,GetWeather
+film screening time please,SearchScreeningEvent
+add bread to list for me,AddToList
+search books for me,SearchCreativeWork
+wake me at 6 now,SetAlarm
+show movies about robots now,SearchCreativeWork
+film screening time today,SearchScreeningEvent
+weather forecast please,GetWeather
+temperature today,GetWeather
+set reminder alarm please,SetAlarm
+play a song,PlayMusic
+set alarm,SetAlarm
+latest news for me,GetNews
+alarm for 7 am today,SetAlarm
+set reminder alarm please,SetAlarm
+cinema schedule today,SearchScreeningEvent
+search books,SearchCreativeWork
+weather in my city now,GetWeather
+find artwork today,SearchCreativeWork
+play a song,PlayMusic
+show movies about robots now,SearchCreativeWork
+weather forecast please,GetWeather
+set reminder alarm today,SetAlarm
+restaurant reservation please,BookRestaurant
+add groceries please,AddToList
+will it rain today for me,GetWeather
+what is the weather for me,GetWeather
+play a song please,PlayMusic
+restaurant reservation today,BookRestaurant
+cinema schedule today,SearchScreeningEvent
+start music today,PlayMusic
+play some songs now,PlayMusic
+showtimes near me today,SearchScreeningEvent
+cinema schedule please,SearchScreeningEvent
+add items to shopping list,AddToList
+i want music,PlayMusic
+music please today,PlayMusic
+book a table for me,BookRestaurant
+is it raining,GetWeather
+weather forecast today,GetWeather
+weather forecast for me,GetWeather
+music please,PlayMusic
+show movies about robots for me,SearchCreativeWork
+what is happening today please,GetNews
+show news now,GetNews
+search books now,SearchCreativeWork
+showtimes near me,SearchScreeningEvent
+play tracks for me,PlayMusic
+weather today for me,GetWeather
+set reminder alarm now,SetAlarm
+table for two please,BookRestaurant
+alarm for 7 am now,SetAlarm
+book a place for dinner for me,BookRestaurant
+add bread to list for me,AddToList
+start playlist now,PlayMusic
+is it raining now,GetWeather
+weather today for me,GetWeather
+i want to eat out now,BookRestaurant
+wake me at 6 now,SetAlarm
+wake me at 6 now,SetAlarm
+showtimes near me,SearchScreeningEvent
+weather in my city now,GetWeather
+play music now,PlayMusic
+i want to eat out please,BookRestaurant
+film screening time today,SearchScreeningEvent
+play a song,PlayMusic
+book a table now,BookRestaurant
+restaurant reservation please,BookRestaurant
+play pop songs now,PlayMusic
+i want music please,PlayMusic
+wake me at 6,SetAlarm
+breaking news for me,GetNews
+search creative content please,SearchCreativeWork
+alarm at 9 pm please,SetAlarm
+restaurant reservation,BookRestaurant
+table for two please today,BookRestaurant
+alarm for 7 am please,SetAlarm
+weather in my city,GetWeather
+cinema schedule please,SearchScreeningEvent
+showtimes near me now,SearchScreeningEvent
+wake me up,SetAlarm
+set morning alarm now,SetAlarm
+add milk to list now,AddToList
+headlines today for me,GetNews
+show movies about robots for me,SearchCreativeWork
+latest news,GetNews
+add items to shopping list for me,AddToList
+add milk to list,AddToList
+look for songs now,SearchCreativeWork
+search creative content for me,SearchCreativeWork
+weather in my city for me,GetWeather
+alarm for 7 am,SetAlarm
+find a movie for me,SearchCreativeWork
+alarm for 7 am today,SetAlarm
+temperature today for me,GetWeather
+headlines today,GetNews
+add bread to list now,AddToList
+look for songs today,SearchCreativeWork
+add bread to list please,AddToList
+set morning alarm today,SetAlarm
+i want to eat out today,BookRestaurant
+play pop songs now,PlayMusic
+set morning alarm for me,SetAlarm
+news update today,GetNews
+when is next show please,SearchScreeningEvent
+movie schedule today please,SearchScreeningEvent
+how is weather for me,GetWeather
+latest news please,GetNews
+add items to shopping list please,AddToList
+book a table,BookRestaurant
+set morning alarm for me,SetAlarm
+will it rain today today,GetWeather
+wake me at 6 today,SetAlarm
+book movie ticket please,SearchScreeningEvent
+book a table,BookRestaurant
+search books please,SearchCreativeWork
+movie timings for me,SearchScreeningEvent
+alarm at 9 pm,SetAlarm
+cinema schedule today,SearchScreeningEvent
+breaking news today,GetNews
+find novels for me,SearchCreativeWork
+cinema schedule today,SearchScreeningEvent
+showtimes near me please,SearchScreeningEvent
+add bread to list today,AddToList
+alarm for 7 am today,SetAlarm
+how is weather please,GetWeather
+put eggs in list now,AddToList
+is it raining please,GetWeather
+set morning alarm please,SetAlarm
+set alarm today,SetAlarm
+look for songs for me,SearchCreativeWork
+book movie ticket,SearchScreeningEvent
+alarm at 9 pm today,SetAlarm
+find novels for me,SearchCreativeWork
+music please today,PlayMusic
+movie timings now,SearchScreeningEvent
+add groceries today,AddToList
+set morning alarm please,SetAlarm
+add groceries today,AddToList
+play some songs now,PlayMusic
+show movies about robots please,SearchCreativeWork
+cinema schedule for me,SearchScreeningEvent
+play some songs for me,PlayMusic
+play a song today,PlayMusic
+book a place for dinner please,BookRestaurant
+play pop songs today,PlayMusic
+show news today,GetNews
+what is happening today today,GetNews
+add groceries now,AddToList
+will it rain today,GetWeather
+i want music please,PlayMusic
+what is the weather,GetWeather
+wake me up,SetAlarm
+find restaurant booking please,BookRestaurant
+when is next show,SearchScreeningEvent
+set morning alarm now,SetAlarm
+show news for me,GetNews
+is it raining now,GetWeather
+what is the weather now,GetWeather
+find artwork please,SearchCreativeWork
+weather forecast,GetWeather
+add item to my list for me,AddToList
+what is the weather now,GetWeather
+show movies about robots now,SearchCreativeWork
+temperature today,GetWeather
+find novels today,SearchCreativeWork
+weather in my city now,GetWeather
+when is next show please,SearchScreeningEvent
+search books for me,SearchCreativeWork
+add bread to list for me,AddToList
+book movie ticket today,SearchScreeningEvent
+put eggs in list please,AddToList
+how is weather today,GetWeather
+alarm at 9 pm today,SetAlarm
+look for songs,SearchCreativeWork
+movie schedule today now,SearchScreeningEvent
+book a place for dinner please,BookRestaurant
+breaking news now,GetNews
+what is happening today for me,GetNews
+add bread to list,AddToList
+set alarm please,SetAlarm
+find artwork for me,SearchCreativeWork
+wake me at 6 today,SetAlarm
+book movie ticket,SearchScreeningEvent
+how is weather please,GetWeather
+show movies about robots please,SearchCreativeWork
+add item to my list for me,AddToList
+news update for me,GetNews
+news update for me,GetNews
+what is happening today today,GetNews
+put eggs in list now,AddToList
+set alarm please,SetAlarm
+latest news for me,GetNews
+find restaurant booking please,BookRestaurant
+showtimes near me for me,SearchScreeningEvent
+add milk to list please,AddToList
+add items to shopping list now,AddToList
+i want to eat out,BookRestaurant
+i want to eat out,BookRestaurant
+start playlist now,PlayMusic
+book a place for dinner,BookRestaurant
+music please now,PlayMusic
+book movie ticket today,SearchScreeningEvent
+show news,GetNews
+add groceries,AddToList
+weather in my city today,GetWeather
+what is the weather please,GetWeather
+i want to eat out,BookRestaurant
+set alarm for me,SetAlarm
+search creative content for me,SearchCreativeWork
+alarm at 9 pm for me,SetAlarm
+find artwork today,SearchCreativeWork
+add bread to list today,AddToList
+add bread to list for me,AddToList
+music please,PlayMusic
+wake me at 6 please,SetAlarm
+add item to my list,AddToList
+find restaurant booking please,BookRestaurant
+is it raining,GetWeather
+find artwork for me,SearchCreativeWork
+showtimes near me,SearchScreeningEvent
+alarm for 7 am now,SetAlarm
+movie timings please,SearchScreeningEvent
+add item to my list for me,AddToList
+set morning alarm,SetAlarm
+wake me at 6 please,SetAlarm
+add items to shopping list,AddToList
+start music now,PlayMusic
+add groceries,AddToList
+when is next show now,SearchScreeningEvent
+look for songs for me,SearchCreativeWork
+book movie ticket,SearchScreeningEvent
+play some songs now,PlayMusic
+add milk to list,AddToList
+wake me at 6 for me,SetAlarm
+play pop songs for me,PlayMusic
+start music today,PlayMusic
+showtimes near me please,SearchScreeningEvent
+show movies about robots today,SearchCreativeWork
+will it rain today now,GetWeather
+look for songs now,SearchCreativeWork
+is it raining now,GetWeather
+show movies about robots today,SearchCreativeWork
+add item to my list today,AddToList
+play tracks,PlayMusic
+what is happening today now,GetNews
+weather in my city for me,GetWeather
+start playlist today,PlayMusic
+find a movie please,SearchCreativeWork
+world news today,GetNews
+movie schedule today,SearchScreeningEvent
+alarm for 7 am for me,SetAlarm
+i want to eat out today,BookRestaurant
+movie timings,SearchScreeningEvent
+wake me at 6 please,SetAlarm
+add bread to list,AddToList
+find a movie please,SearchCreativeWork
+will it rain today,GetWeather
+book a place for dinner now,BookRestaurant
+add groceries today,AddToList
+cinema schedule today,SearchScreeningEvent
+restaurant reservation please,BookRestaurant
+reserve restaurant now,BookRestaurant
+look for songs for me,SearchCreativeWork
+add milk to list now,AddToList
+add bread to list for me,AddToList
+movie schedule today please,SearchScreeningEvent
+film screening time today,SearchScreeningEvent
+what is happening today for me,GetNews
+find artwork now,SearchCreativeWork
+wake me at 6 please,SetAlarm
+search books today,SearchCreativeWork
+i want music today,PlayMusic
+find artwork please,SearchCreativeWork
+movie timings please,SearchScreeningEvent
+breaking news,GetNews
+movie timings for me,SearchScreeningEvent
+movie timings please,SearchScreeningEvent
+find novels please,SearchCreativeWork
+will it rain today now,GetWeather
+world news today,GetNews
+temperature today for me,GetWeather
+look for songs today,SearchCreativeWork
+music please,PlayMusic
+wake me at 6 now,SetAlarm
+wake me at 6,SetAlarm
+find a movie,SearchCreativeWork
+cinema schedule now,SearchScreeningEvent
+play music now,PlayMusic
+play pop songs now,PlayMusic
+news update please,GetNews
+set reminder alarm today,SetAlarm
+book dinner table please,BookRestaurant
+weather in my city for me,GetWeather
+set morning alarm for me,SetAlarm
+find restaurant booking today,BookRestaurant
+add groceries now,AddToList
+play tracks now,PlayMusic
+reserve restaurant today,BookRestaurant
+world news now,GetNews
+show movies about robots now,SearchCreativeWork
+movie schedule today now,SearchScreeningEvent
+set morning alarm today,SetAlarm
+weather forecast today,GetWeather
+world news now,GetNews
+add milk to list today,AddToList
+add milk to list for me,AddToList
+music please today,PlayMusic
+add items to shopping list for me,AddToList
+show news please,GetNews
+add item to my list please,AddToList
+what is the weather now,GetWeather
+movie timings for me,SearchScreeningEvent
+headlines today please,GetNews
+how is weather now,GetWeather
+search books please,SearchCreativeWork
+table for two please for me,BookRestaurant
+add items to shopping list now,AddToList
+movie schedule today now,SearchScreeningEvent
+breaking news,GetNews
+movie timings please,SearchScreeningEvent
+alarm at 9 pm today,SetAlarm
+latest news today,GetNews
+play pop songs for me,PlayMusic
+will it rain today now,GetWeather
+add bread to list today,AddToList
+latest news please,GetNews
+movie timings for me,SearchScreeningEvent
+world news please,GetNews
+will it rain today now,GetWeather
+find a movie please,SearchCreativeWork
+play music now,PlayMusic
+movie timings,SearchScreeningEvent
+set reminder alarm please,SetAlarm
+find artwork now,SearchCreativeWork
+search creative content please,SearchCreativeWork
+show movies about robots,SearchCreativeWork
+film screening time today,SearchScreeningEvent
+add milk to list now,AddToList
+set morning alarm today,SetAlarm
+alarm at 9 pm now,SetAlarm
+temperature today for me,GetWeather
+latest news today,GetNews
+add items to shopping list,AddToList
+movie timings please,SearchScreeningEvent
+play music now,PlayMusic
+wake me up for me,SetAlarm
+set alarm for me,SetAlarm
+set reminder alarm please,SetAlarm
+alarm for 7 am please,SetAlarm
+play pop songs please,PlayMusic
+i want to eat out please,BookRestaurant
+what is the weather please,GetWeather
+i want music please,PlayMusic
+latest news please,GetNews
+add milk to list please,AddToList
+search creative content,SearchCreativeWork
+will it rain today today,GetWeather
+world news for me,GetNews
+will it rain today for me,GetWeather
+set reminder alarm,SetAlarm
+add groceries,AddToList
+play tracks today,PlayMusic
+show movies about robots,SearchCreativeWork
+when is next show today,SearchScreeningEvent
+weather today now,GetWeather
+reserve restaurant please,BookRestaurant
+add bread to list for me,AddToList
+news update for me,GetNews
+add groceries for me,AddToList
+find a movie,SearchCreativeWork
+set morning alarm today,SetAlarm
+set morning alarm now,SetAlarm
+book movie ticket today,SearchScreeningEvent
+temperature today today,GetWeather
+headlines today now,GetNews
+show news today,GetNews
+weather today,GetWeather
+weather in my city,GetWeather
+breaking news please,GetNews
+music please for me,PlayMusic
+headlines today,GetNews
+look for songs today,SearchCreativeWork
+play pop songs for me,PlayMusic
+put eggs in list,AddToList
+wake me up today,SetAlarm
+alarm at 9 pm,SetAlarm
+breaking news for me,GetNews
+latest news now,GetNews
+alarm at 9 pm today,SetAlarm
+music please now,PlayMusic
+start music now,PlayMusic
+put eggs in list now,AddToList
+start music please,PlayMusic
+find a movie please,SearchCreativeWork
+play a song for me,PlayMusic
+set morning alarm today,SetAlarm
+showtimes near me please,SearchScreeningEvent
+what is happening today now,GetNews
+what is the weather please,GetWeather
+book a table,BookRestaurant
+add groceries today,AddToList
+film screening time today,SearchScreeningEvent
+look for songs please,SearchCreativeWork
+temperature today today,GetWeather
+how is weather for me,GetWeather
+film screening time now,SearchScreeningEvent
+play hindi songs today,PlayMusic
+play music please,PlayMusic
+add items to shopping list please,AddToList
+put eggs in list now,AddToList
+what is the weather today,GetWeather
+search books please,SearchCreativeWork
+search creative content please,SearchCreativeWork
+latest news today,GetNews
+play some songs,PlayMusic
+movie timings now,SearchScreeningEvent
+search creative content today,SearchCreativeWork
+look for songs,SearchCreativeWork
+find a movie now,SearchCreativeWork
+book a place for dinner now,BookRestaurant
+weather in my city,GetWeather
+set morning alarm for me,SetAlarm
+search creative content,SearchCreativeWork
+find novels now,SearchCreativeWork
+show news now,GetNews
+reserve restaurant for me,BookRestaurant
+weather forecast now,GetWeather
+headlines today please,GetNews
+set alarm please,SetAlarm
+add items to shopping list please,AddToList
+reserve restaurant please,BookRestaurant
+book movie ticket for me,SearchScreeningEvent
+when is next show for me,SearchScreeningEvent
+breaking news now,GetNews
+book a place for dinner,BookRestaurant
+book movie ticket now,SearchScreeningEvent
+add bread to list,AddToList
+world news,GetNews
+add groceries today,AddToList
+play music now,PlayMusic
+add milk to list,AddToList
+find artwork for me,SearchCreativeWork
+play tracks for me,PlayMusic
+alarm for 7 am for me,SetAlarm
+film screening time please,SearchScreeningEvent
+play tracks,PlayMusic
+headlines today,GetNews
+book a table please,BookRestaurant
+book movie ticket for me,SearchScreeningEvent
+table for two please now,BookRestaurant
+add groceries today,AddToList
+headlines today for me,GetNews
+i want music,PlayMusic
+latest news for me,GetNews
+look for songs now,SearchCreativeWork
+table for two please,BookRestaurant
+table for two please now,BookRestaurant
+search books for me,SearchCreativeWork
+how is weather for me,GetWeather
+show movies about robots now,SearchCreativeWork
+reserve restaurant today,BookRestaurant
+latest news now,GetNews
+add items to shopping list please,AddToList
+breaking news today,GetNews
+wake me up please,SetAlarm
+reserve restaurant now,BookRestaurant
+what is the weather now,GetWeather
+restaurant reservation please,BookRestaurant
+book dinner table for me,BookRestaurant
+book a place for dinner,BookRestaurant
+look for songs please,SearchCreativeWork
+film screening time now,SearchScreeningEvent
+cinema schedule for me,SearchScreeningEvent
+alarm for 7 am today,SetAlarm
+alarm for 7 am for me,SetAlarm
+book movie ticket now,SearchScreeningEvent
+search creative content for me,SearchCreativeWork
+search books please,SearchCreativeWork
+i want to eat out,BookRestaurant
+movie schedule today now,SearchScreeningEvent
+weather today now,GetWeather
+is it raining now,GetWeather
+film screening time please,SearchScreeningEvent
+find a movie please,SearchCreativeWork
+showtimes near me,SearchScreeningEvent
+find a movie today,SearchCreativeWork
+show news today,GetNews
+temperature today please,GetWeather
+i want music,PlayMusic
+breaking news please,GetNews
+book a table now,BookRestaurant
+when is next show please,SearchScreeningEvent
+book movie ticket for me,SearchScreeningEvent
+play a song,PlayMusic
+add items to shopping list please,AddToList
+find a movie now,SearchCreativeWork
+alarm for 7 am,SetAlarm
+play hindi songs today,PlayMusic
+movie timings,SearchScreeningEvent
+film screening time for me,SearchScreeningEvent
+start playlist for me,PlayMusic
+wake me at 6 please,SetAlarm
+add groceries,AddToList
+show news for me,GetNews
+search books,SearchCreativeWork
+latest news for me,GetNews
+play some songs today,PlayMusic
+play some songs now,PlayMusic
+add item to my list,AddToList
+breaking news,GetNews
+show news,GetNews
+show news,GetNews
+world news now,GetNews
+book a place for dinner today,BookRestaurant
+book dinner table,BookRestaurant
+movie timings now,SearchScreeningEvent
+set alarm please,SetAlarm
+i want music now,PlayMusic
+find novels for me,SearchCreativeWork
+showtimes near me,SearchScreeningEvent
+alarm for 7 am now,SetAlarm
+i want music now,PlayMusic
+temperature today today,GetWeather
+show movies about robots today,SearchCreativeWork
+look for songs please,SearchCreativeWork
+when is next show today,SearchScreeningEvent
+breaking news for me,GetNews
+add milk to list today,AddToList
+weather in my city for me,GetWeather
+i want to eat out now,BookRestaurant
+weather today now,GetWeather
+put eggs in list today,AddToList
+search books today,SearchCreativeWork
+news update,GetNews
+world news today,GetNews
+add item to my list,AddToList
+weather in my city now,GetWeather
+book a table please,BookRestaurant
+movie timings please,SearchScreeningEvent
+weather forecast now,GetWeather
+news update for me,GetNews
+music please please,PlayMusic
+showtimes near me now,SearchScreeningEvent
+movie schedule today,SearchScreeningEvent
+table for two please today,BookRestaurant
+headlines today now,GetNews
+set alarm,SetAlarm
+book a place for dinner for me,BookRestaurant
+search creative content,SearchCreativeWork
+put eggs in list today,AddToList
+set reminder alarm now,SetAlarm
+cinema schedule,SearchScreeningEvent
+reserve restaurant today,BookRestaurant
+book a place for dinner,BookRestaurant
+headlines today now,GetNews
+how is weather now,GetWeather
+book dinner table now,BookRestaurant
+set alarm please,SetAlarm
+find restaurant booking today,BookRestaurant
+i want music for me,PlayMusic
+news update for me,GetNews
+reserve restaurant,BookRestaurant
+add groceries today,AddToList
+find novels today,SearchCreativeWork
+is it raining now,GetWeather
+will it rain today today,GetWeather
+show news for me,GetNews
+book dinner table today,BookRestaurant
+play a song for me,PlayMusic
+i want to eat out please,BookRestaurant
+table for two please please,BookRestaurant
+world news now,GetNews
+how is weather please,GetWeather
+add items to shopping list now,AddToList
+is it raining for me,GetWeather
+book dinner table for me,BookRestaurant
+breaking news for me,GetNews
+play music,PlayMusic
+music please now,PlayMusic
+alarm at 9 pm for me,SetAlarm
+search creative content,SearchCreativeWork
+when is next show for me,SearchScreeningEvent
+add item to my list now,AddToList
+cinema schedule today,SearchScreeningEvent
+add groceries,AddToList
+start music today,PlayMusic
+find artwork today,SearchCreativeWork
+alarm for 7 am for me,SetAlarm
+table for two please now,BookRestaurant
+news update please,GetNews
+world news for me,GetNews
+temperature today please,GetWeather
+movie timings now,SearchScreeningEvent
+cinema schedule please,SearchScreeningEvent
+what is the weather now,GetWeather
+find novels for me,SearchCreativeWork
+search books please,SearchCreativeWork
+world news now,GetNews
+alarm at 9 pm please,SetAlarm
+film screening time today,SearchScreeningEvent
+showtimes near me today,SearchScreeningEvent
+play a song today,PlayMusic
+cinema schedule please,SearchScreeningEvent
+latest news,GetNews
+add groceries for me,AddToList
+showtimes near me for me,SearchScreeningEvent
+play a song today,PlayMusic
+i want to eat out now,BookRestaurant
+look for songs,SearchCreativeWork
+find a movie for me,SearchCreativeWork
+alarm for 7 am for me,SetAlarm
+add milk to list today,AddToList
+movie schedule today for me,SearchScreeningEvent
+add bread to list for me,AddToList
+is it raining,GetWeather
+look for songs now,SearchCreativeWork
+breaking news please,GetNews
+set reminder alarm for me,SetAlarm
+search creative content,SearchCreativeWork
+play music please,PlayMusic
+breaking news today,GetNews
+cinema schedule for me,SearchScreeningEvent
+table for two please for me,BookRestaurant
+show news today,GetNews
+add bread to list now,AddToList
+when is next show for me,SearchScreeningEvent
+add groceries,AddToList
+what is happening today,GetNews
+search creative content now,SearchCreativeWork
+music please today,PlayMusic
+add item to my list for me,AddToList
+wake me at 6,SetAlarm
+cinema schedule for me,SearchScreeningEvent
+search books please,SearchCreativeWork
+music please,PlayMusic
+set alarm today,SetAlarm
+news update please,GetNews
+show movies about robots please,SearchCreativeWork
+search creative content for me,SearchCreativeWork
+movie schedule today,SearchScreeningEvent
+find restaurant booking for me,BookRestaurant
+headlines today today,GetNews
+look for songs please,SearchCreativeWork
+film screening time now,SearchScreeningEvent
+headlines today now,GetNews
+cinema schedule please,SearchScreeningEvent
+add bread to list now,AddToList
+alarm for 7 am now,SetAlarm
+wake me at 6 today,SetAlarm
+news update now,GetNews
+put eggs in list,AddToList
+find artwork now,SearchCreativeWork
+i want to eat out,BookRestaurant
+add item to my list,AddToList
+news update now,GetNews
+cinema schedule please,SearchScreeningEvent
+add bread to list now,AddToList
+reserve restaurant for me,BookRestaurant
+wake me up,SetAlarm
+wake me at 6 please,SetAlarm
+play a song today,PlayMusic
+headlines today today,GetNews
+is it raining,GetWeather
+restaurant reservation today,BookRestaurant
+when is next show please,SearchScreeningEvent
+put eggs in list now,AddToList
+play a song for me,PlayMusic
+set reminder alarm,SetAlarm
+restaurant reservation please,BookRestaurant
+play some songs today,PlayMusic
+i want to eat out,BookRestaurant
+play pop songs for me,PlayMusic
+temperature today now,GetWeather
+when is next show for me,SearchScreeningEvent
+cinema schedule for me,SearchScreeningEvent
+showtimes near me please,SearchScreeningEvent
+temperature today please,GetWeather
+when is next show now,SearchScreeningEvent
+book a table now,BookRestaurant
+add bread to list please,AddToList
+restaurant reservation today,BookRestaurant
+latest news today,GetNews
+is it raining please,GetWeather
+showtimes near me please,SearchScreeningEvent
+play pop songs today,PlayMusic
+set morning alarm now,SetAlarm
+what is happening today for me,GetNews
+play pop songs now,PlayMusic
+set alarm,SetAlarm
+showtimes near me please,SearchScreeningEvent
+show movies about robots for me,SearchCreativeWork
+add item to my list,AddToList
+put eggs in list for me,AddToList
+wake me up please,SetAlarm
+cinema schedule today,SearchScreeningEvent
+news update for me,GetNews
+movie schedule today for me,SearchScreeningEvent
+alarm at 9 pm please,SetAlarm
+will it rain today for me,GetWeather
+latest news for me,GetNews
+what is the weather for me,GetWeather
+set reminder alarm for me,SetAlarm
+book dinner table now,BookRestaurant
+movie timings please,SearchScreeningEvent
+movie timings for me,SearchScreeningEvent
+movie schedule today,SearchScreeningEvent
+cinema schedule for me,SearchScreeningEvent
+find artwork for me,SearchCreativeWork
+start playlist today,PlayMusic
+add item to my list,AddToList
+look for songs,SearchCreativeWork
+set reminder alarm,SetAlarm
+play some songs now,PlayMusic
+what is the weather,GetWeather
+movie timings now,SearchScreeningEvent
+search books please,SearchCreativeWork
+look for songs today,SearchCreativeWork
+movie schedule today today,SearchScreeningEvent
+find a movie for me,SearchCreativeWork
+table for two please,BookRestaurant
+restaurant reservation for me,BookRestaurant
+find restaurant booking,BookRestaurant
+play pop songs today,PlayMusic
+search creative content today,SearchCreativeWork
+wake me up today,SetAlarm
+show news now,GetNews
+wake me at 6,SetAlarm
+play some songs for me,PlayMusic
+play hindi songs please,PlayMusic
+weather today for me,GetWeather
+play tracks for me,PlayMusic
+play hindi songs,PlayMusic
+find artwork please,SearchCreativeWork
+alarm at 9 pm,SetAlarm
+i want to eat out please,BookRestaurant
+world news for me,GetNews
+show news now,GetNews
+find restaurant booking today,BookRestaurant
+put eggs in list,AddToList
+restaurant reservation for me,BookRestaurant
+movie timings now,SearchScreeningEvent
+find novels for me,SearchCreativeWork
+headlines today today,GetNews
+search books now,SearchCreativeWork
+search books for me,SearchCreativeWork
+cinema schedule please,SearchScreeningEvent
+add item to my list please,AddToList
+movie timings for me,SearchScreeningEvent
+find artwork for me,SearchCreativeWork
+restaurant reservation please,BookRestaurant
+add items to shopping list now,AddToList
+will it rain today now,GetWeather
+weather forecast,GetWeather
+add groceries for me,AddToList
+play a song please,PlayMusic
+set morning alarm please,SetAlarm
+what is happening today,GetNews
+wake me up,SetAlarm
+cinema schedule for me,SearchScreeningEvent
+set morning alarm please,SetAlarm
+breaking news now,GetNews
+find artwork for me,SearchCreativeWork
+what is happening today now,GetNews
+world news today,GetNews
+movie timings today,SearchScreeningEvent
+show news now,GetNews
+news update,GetNews
+wake me at 6 please,SetAlarm
+play pop songs for me,PlayMusic
+look for songs please,SearchCreativeWork
+alarm for 7 am please,SetAlarm
+search creative content please,SearchCreativeWork
+film screening time now,SearchScreeningEvent
+add groceries today,AddToList
+cinema schedule now,SearchScreeningEvent
+book dinner table for me,BookRestaurant
+cinema schedule for me,SearchScreeningEvent
+start playlist,PlayMusic
+what is the weather,GetWeather
+search books please,SearchCreativeWork
+is it raining,GetWeather
+set reminder alarm today,SetAlarm
+latest news for me,GetNews
+when is next show today,SearchScreeningEvent
+play music for me,PlayMusic
+find a movie,SearchCreativeWork
+add bread to list now,AddToList
+start playlist today,PlayMusic
+reserve restaurant,BookRestaurant
+find restaurant booking please,BookRestaurant
+put eggs in list now,AddToList
+find a movie now,SearchCreativeWork
+find artwork for me,SearchCreativeWork
+wake me at 6 please,SetAlarm
+add item to my list,AddToList
+play a song today,PlayMusic
+find artwork for me,SearchCreativeWork
+movie timings,SearchScreeningEvent
+reserve restaurant today,BookRestaurant
+show movies about robots now,SearchCreativeWork
+what is the weather please,GetWeather
+alarm at 9 pm for me,SetAlarm
+showtimes near me,SearchScreeningEvent
+how is weather for me,GetWeather
+start music now,PlayMusic
+play hindi songs for me,PlayMusic
+restaurant reservation,BookRestaurant
+add items to shopping list for me,AddToList
+set reminder alarm today,SetAlarm
+news update please,GetNews
+temperature today,GetWeather
+weather in my city please,GetWeather
+temperature today for me,GetWeather
+find novels now,SearchCreativeWork
+play pop songs today,PlayMusic
+cinema schedule now,SearchScreeningEvent
+find artwork please,SearchCreativeWork
+find a movie for me,SearchCreativeWork
+add items to shopping list,AddToList
+how is weather please,GetWeather
+show movies about robots please,SearchCreativeWork
+look for songs now,SearchCreativeWork
+weather today,GetWeather
+add groceries now,AddToList
+add milk to list please,AddToList
+is it raining today,GetWeather
+film screening time for me,SearchScreeningEvent
+find a movie,SearchCreativeWork
+temperature today for me,GetWeather
+temperature today today,GetWeather
+play pop songs today,PlayMusic
+find novels,SearchCreativeWork
+set reminder alarm for me,SetAlarm
+restaurant reservation please,BookRestaurant
+i want to eat out now,BookRestaurant
+add groceries please,AddToList
+is it raining today,GetWeather
+add groceries now,AddToList
+movie schedule today,SearchScreeningEvent
+what is happening today please,GetNews
+film screening time for me,SearchScreeningEvent
+set morning alarm,SetAlarm
+i want to eat out,BookRestaurant
+look for songs for me,SearchCreativeWork
+find novels now,SearchCreativeWork
+showtimes near me today,SearchScreeningEvent
+i want to eat out now,BookRestaurant
+set morning alarm now,SetAlarm
+restaurant reservation now,BookRestaurant
+add item to my list today,AddToList
+alarm for 7 am today,SetAlarm
+add groceries now,AddToList
+weather forecast for me,GetWeather
+book a table today,BookRestaurant
+set morning alarm now,SetAlarm
+weather in my city today,GetWeather
+i want to eat out please,BookRestaurant
+add item to my list please,AddToList
+find novels today,SearchCreativeWork
+will it rain today for me,GetWeather
+film screening time today,SearchScreeningEvent
+search creative content,SearchCreativeWork
+headlines today for me,GetNews
+weather today please,GetWeather
+show news for me,GetNews
+music please today,PlayMusic
+breaking news today,GetNews
+what is the weather,GetWeather
+add items to shopping list for me,AddToList
+set morning alarm now,SetAlarm
+find artwork for me,SearchCreativeWork
+table for two please,BookRestaurant
+movie timings now,SearchScreeningEvent
+find a movie,SearchCreativeWork
+table for two please now,BookRestaurant
+news update please,GetNews
+showtimes near me today,SearchScreeningEvent
+will it rain today today,GetWeather
+latest news now,GetNews
+play a song,PlayMusic
+headlines today,GetNews
+find restaurant booking for me,BookRestaurant
+book dinner table now,BookRestaurant
+find artwork please,SearchCreativeWork
+show movies about robots please,SearchCreativeWork
+restaurant reservation today,BookRestaurant
+music please please,PlayMusic
+film screening time today,SearchScreeningEvent
+find a movie please,SearchCreativeWork
+alarm for 7 am,SetAlarm
+is it raining now,GetWeather
+show news today,GetNews
+how is weather today,GetWeather
+world news today,GetNews
+search creative content,SearchCreativeWork
+what is happening today today,GetNews
+i want to eat out for me,BookRestaurant
+is it raining now,GetWeather
+weather forecast now,GetWeather
+is it raining now,GetWeather
+restaurant reservation today,BookRestaurant
+restaurant reservation today,BookRestaurant
+book a place for dinner for me,BookRestaurant
+book dinner table today,BookRestaurant
+add items to shopping list please,AddToList
+breaking news today,GetNews
+i want music,PlayMusic
+cinema schedule please,SearchScreeningEvent
+search creative content for me,SearchCreativeWork
+book movie ticket today,SearchScreeningEvent
+show movies about robots today,SearchCreativeWork
+cinema schedule,SearchScreeningEvent
+play hindi songs now,PlayMusic
+play pop songs please,PlayMusic
+add items to shopping list today,AddToList
+film screening time for me,SearchScreeningEvent
+weather today now,GetWeather
+world news,GetNews
+film screening time please,SearchScreeningEvent
+find a movie please,SearchCreativeWork
+add milk to list today,AddToList
+put eggs in list,AddToList
+movie schedule today,SearchScreeningEvent
+wake me up for me,SetAlarm
+breaking news for me,GetNews
+search books for me,SearchCreativeWork
+find restaurant booking please,BookRestaurant
+music please now,PlayMusic
+add bread to list for me,AddToList
+table for two please now,BookRestaurant
+add bread to list now,AddToList
+is it raining today,GetWeather
+play pop songs please,PlayMusic
+find restaurant booking please,BookRestaurant
+breaking news please,GetNews
+find artwork please,SearchCreativeWork
+add item to my list today,AddToList
+find artwork,SearchCreativeWork
+weather in my city for me,GetWeather
+add item to my list now,AddToList
+book movie ticket now,SearchScreeningEvent
+play a song today,PlayMusic
+breaking news,GetNews
+search books today,SearchCreativeWork
+set morning alarm now,SetAlarm
+breaking news now,GetNews
+world news for me,GetNews
+book a place for dinner now,BookRestaurant
+play music,PlayMusic
+movie timings,SearchScreeningEvent
+book a place for dinner today,BookRestaurant
+play some songs please,PlayMusic
+i want to eat out please,BookRestaurant
+add milk to list now,AddToList
+add milk to list now,AddToList
+book a table today,BookRestaurant
+add item to my list please,AddToList
+show movies about robots,SearchCreativeWork
+what is the weather please,GetWeather
+movie timings please,SearchScreeningEvent
+set reminder alarm today,SetAlarm
+play music now,PlayMusic
+weather in my city please,GetWeather
+movie timings please,SearchScreeningEvent
+find a movie,SearchCreativeWork
+temperature today now,GetWeather
+add items to shopping list today,AddToList
+book dinner table,BookRestaurant
+music please please,PlayMusic
+showtimes near me please,SearchScreeningEvent
+restaurant reservation for me,BookRestaurant
+movie schedule today please,SearchScreeningEvent
+weather today please,GetWeather
+weather in my city now,GetWeather
+look for songs please,SearchCreativeWork
+alarm for 7 am,SetAlarm
+set reminder alarm for me,SetAlarm
+add item to my list,AddToList
+add items to shopping list for me,AddToList
+wake me at 6 today,SetAlarm
+add item to my list,AddToList
+set morning alarm today,SetAlarm
+weather forecast today,GetWeather
+what is the weather now,GetWeather
+show news today,GetNews
+look for songs for me,SearchCreativeWork
+book a place for dinner,BookRestaurant
+music please,PlayMusic
+play pop songs please,PlayMusic
+play music today,PlayMusic
+add item to my list for me,AddToList
+find artwork today,SearchCreativeWork
+is it raining now,GetWeather
+how is weather,GetWeather
+alarm at 9 pm please,SetAlarm
+news update for me,GetNews
+how is weather today,GetWeather
+set alarm please,SetAlarm
+weather in my city,GetWeather
+film screening time for me,SearchScreeningEvent
+play pop songs please,PlayMusic
+what is the weather please,GetWeather
+start music today,PlayMusic
+world news for me,GetNews
+add items to shopping list now,AddToList
+i want to eat out,BookRestaurant
+i want music today,PlayMusic
+add bread to list,AddToList
+add item to my list for me,AddToList
+will it rain today today,GetWeather
+latest news today,GetNews
+table for two please please,BookRestaurant
+add milk to list for me,AddToList
+weather forecast for me,GetWeather
+play music,PlayMusic
+set alarm today,SetAlarm
+news update please,GetNews
+book a table for me,BookRestaurant
+search books now,SearchCreativeWork
+set morning alarm now,SetAlarm
+add milk to list for me,AddToList
+latest news for me,GetNews
+start music please,PlayMusic
+play some songs,PlayMusic
+movie schedule today now,SearchScreeningEvent
+put eggs in list,AddToList
+movie timings now,SearchScreeningEvent
+alarm for 7 am for me,SetAlarm
+add item to my list for me,AddToList
+set morning alarm now,SetAlarm
+movie schedule today please,SearchScreeningEvent
+wake me up,SetAlarm
+find a movie please,SearchCreativeWork
+headlines today,GetNews
+latest news today,GetNews
+add milk to list please,AddToList
+set morning alarm today,SetAlarm
+start music now,PlayMusic
+what is the weather please,GetWeather
+show movies about robots now,SearchCreativeWork
+when is next show,SearchScreeningEvent
+is it raining today,GetWeather
+what is the weather today,GetWeather
+find restaurant booking now,BookRestaurant
+put eggs in list today,AddToList
+what is happening today today,GetNews
+add items to shopping list,AddToList
+wake me up for me,SetAlarm
+is it raining,GetWeather
+book a place for dinner today,BookRestaurant
+news update,GetNews
+breaking news please,GetNews
+showtimes near me today,SearchScreeningEvent
+add milk to list,AddToList
+i want to eat out for me,BookRestaurant
+play hindi songs now,PlayMusic
+reserve restaurant please,BookRestaurant
+news update for me,GetNews
+play pop songs now,PlayMusic
+book a table today,BookRestaurant
+film screening time for me,SearchScreeningEvent
+set alarm today,SetAlarm
+is it raining,GetWeather
+play music please,PlayMusic
+find restaurant booking today,BookRestaurant
+headlines today,GetNews
+add milk to list,AddToList
+weather forecast today,GetWeather
+reserve restaurant now,BookRestaurant
+what is the weather today,GetWeather
+start music for me,PlayMusic
+find novels today,SearchCreativeWork
+movie timings today,SearchScreeningEvent
+search books now,SearchCreativeWork
+wake me up now,SetAlarm
+add groceries please,AddToList
+music please for me,PlayMusic
+wake me at 6 now,SetAlarm
+book movie ticket for me,SearchScreeningEvent
+movie timings,SearchScreeningEvent
+add groceries please,AddToList
+search books for me,SearchCreativeWork
+wake me at 6 for me,SetAlarm
+play some songs now,PlayMusic
+film screening time today,SearchScreeningEvent
+world news for me,GetNews
+news update now,GetNews
+book a table now,BookRestaurant
+set alarm now,SetAlarm
+play tracks for me,PlayMusic
+breaking news for me,GetNews
+wake me up,SetAlarm
+wake me at 6 please,SetAlarm
+add bread to list,AddToList
+set reminder alarm today,SetAlarm
+breaking news please,GetNews
+find restaurant booking for me,BookRestaurant
+breaking news now,GetNews
+i want music for me,PlayMusic
+find restaurant booking today,BookRestaurant
+add items to shopping list today,AddToList
+play a song,PlayMusic
+set reminder alarm please,SetAlarm
+start playlist today,PlayMusic
+i want music for me,PlayMusic
+alarm at 9 pm please,SetAlarm
+headlines today please,GetNews
+latest news,GetNews
+book dinner table,BookRestaurant
+latest news now,GetNews
+search creative content,SearchCreativeWork
+what is happening today now,GetNews
+book dinner table today,BookRestaurant
+when is next show now,SearchScreeningEvent
+table for two please please,BookRestaurant
+restaurant reservation now,BookRestaurant
+add items to shopping list please,AddToList
+music please today,PlayMusic
+start music for me,PlayMusic
+breaking news for me,GetNews
+wake me at 6 for me,SetAlarm
+will it rain today please,GetWeather
+headlines today,GetNews
+alarm for 7 am now,SetAlarm
+reserve restaurant now,BookRestaurant
+movie timings now,SearchScreeningEvent
+wake me up,SetAlarm
+what is happening today,GetNews
+play music today,PlayMusic
+when is next show today,SearchScreeningEvent
+restaurant reservation today,BookRestaurant
+look for songs for me,SearchCreativeWork
+find a movie today,SearchCreativeWork
+wake me up today,SetAlarm
+what is the weather now,GetWeather
+i want music now,PlayMusic
+weather today now,GetWeather
+restaurant reservation please,BookRestaurant
+weather today now,GetWeather
+when is next show,SearchScreeningEvent
+show movies about robots please,SearchCreativeWork
+search books,SearchCreativeWork
+temperature today please,GetWeather
+set morning alarm for me,SetAlarm
+add item to my list now,AddToList
+add items to shopping list,AddToList
